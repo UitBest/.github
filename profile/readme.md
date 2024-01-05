@@ -1,7 +1,8 @@
 
 <h1 align="center">Welkom bij ons, Uit Best!</h1> 
 
-<p align="center"><img align="middle" src="https://github.com/UitBest/.github-private/assets/82875662/47ce04ff-a1a7-417a-b7e7-79a03ef7c2ea" width="200" height="200" /></p>
+<p align="center"><img align="middle" src="https://github.com/UitBest/.github/assets/82875662/c558b732-7f6a-4f6b-b3a4-85da7a73bee9" width="200" height="200" /></p>
+
 <br>
 <br>
 <h2 align="center">Belangrijkste Repositories</h2>
