@@ -17,10 +17,10 @@
   </tr>
   <tr>
     <td>
-      <p align="center">https://github.com/UitBest/base</p>
-      <p align="center">https://github.com/UitBest/base.git</p>
+      <p align="center">https://github.com/UitBest/nuxt-Base</p>
+      <p align="center">https://github.com/UitBest/nuxt-Base.git</p>
     </td>
-    <td><p align="center">Vue+ template</p></td>
+    <td><p align="center">Nuxt template</p></td>
   </tr>
 </table>
 
